@@ -1,0 +1,12 @@
+.reversed{
+    background-color: lightskyblue;
+    border: 1px solid green;
+    width: 60%;
+    margin: auto;
+}
+.normal{
+    background-color: gold;
+    border: 1px solid green;
+    width: 60%;
+    margin: auto;
+}
